@@ -121,7 +121,7 @@ npm install
 
 ## Autor
 
-- Leo Ferson
+- Leoferson torres 28246714
 
 ---
 
